@@ -3,7 +3,6 @@
 </p>
 
 <a href="https://www.linkedin.com/in/kapil-azaan-6a637a289/">
-  <p align="left">
   <img height="50" src="https://github.com/BlackToothGrin15/BlackToothGrin15/assets/142589193/14b88440-2e52-455c-815a-1468fd1ba42e"/>
 </a>
 
