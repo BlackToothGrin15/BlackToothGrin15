@@ -6,7 +6,7 @@
   <img height="50" src="https://github.com/BlackToothGrin15/BlackToothGrin15/assets/142589193/14b88440-2e52-455c-815a-1468fd1ba42e"/>
 </a>
 
-<a href="https://www.instagram.com/k.azn15/">
+<a href="https://www.instagram.com/pulchra.zn/">
   <img height="50" align= "right" src="https://github.com/BlackToothGrin15/BlackToothGrin15/assets/142589193/9a404401-4910-4535-be7e-c066bd2ff9fe"/>
 </a>
 
